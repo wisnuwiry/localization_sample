@@ -47,6 +47,7 @@
 	<array>
 		<string>id</string>
 		<string>en</string>
+		<string>de</string>
 	</array>
 </dict>
 </plist>

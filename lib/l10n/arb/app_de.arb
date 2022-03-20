@@ -1,0 +1,5 @@
+{
+    "@@locale": "de",
+    "hello": "Hallo {name}",
+    "helloWorld": "Halo Welt!"
+}
